@@ -1,6 +1,9 @@
 #aca se ponen los que son encuarentenados pero NO son "ip peligrosos" que tienen que hacer conexiones entrantes al virtual ip
 #tambien se agregan los ip seguros que desarrollo nos informe
 
+#softeam sistemas
+70.37.62.150
+
 #productores
 45.71.106.159
 192.141.178.18
