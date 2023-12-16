@@ -1,4 +1,5 @@
 #aca se ponen los que son encuarentenados pero NO son "ip peligrosos"
+#tambien se agregan los ip seguros que desarrollo nos informe
 
 #relativos al dns
 199.249.120.1
