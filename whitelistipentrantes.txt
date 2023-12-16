@@ -1,3 +1,6 @@
+#aca se ponen los que son encuarentenados pero NO son "ip peligrosos" que tienen que hacer conexiones entrantes al virtual ip
+#tambien se agregan los ip seguros que desarrollo nos informe
+
 #productores
 45.71.106.159
 192.141.178.18
