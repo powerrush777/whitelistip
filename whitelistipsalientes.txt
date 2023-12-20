@@ -74,6 +74,9 @@
 #varios
 34.215.167.138
 
+#ipfortigate
+208.91.112.55
+
 ##################################de aca en adelante igual al de entrantes##############################
 
 #productores
