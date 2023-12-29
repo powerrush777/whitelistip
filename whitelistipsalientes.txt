@@ -1,5 +1,7 @@
 #aca se ponen los que son encuarentenados pero NO son "ip peligrosos"
 #tambien se agregan los ip seguros que desarrollo nos informe
+#ike asistencia
+200.32.43.160
 
 #softteams sistemas
 70.37.62.150
