@@ -1,6 +1,9 @@
 #aca se ponen los que son encuarentenados pero NO son "ip peligrosos" que tienen que hacer conexiones entrantes al virtual ip
 #tambien se agregan los ip seguros que desarrollo nos informe
 
+#ikeasistencia
+200.32.43.160
+
 #softeam sistemas
 70.37.62.150
 
