@@ -1,7 +1,7 @@
 #aca se ponen los que son encuarentenados pero NO son "ip peligrosos"
 #tambien se agregan los ip seguros que desarrollo nos informe
-#ike asistencia
-200.32.43.160
+#ikeasistencia
+200.32.43.161
 #yacare
 54.207.205.96
 #softteams sistemas
