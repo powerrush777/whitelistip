@@ -2,7 +2,7 @@
 #tambien se agregan los ip seguros que desarrollo nos informe
 
 #ikeasistencia
-200.32.43.160
+200.32.43.161
 #yacare
 54.207.205.96
 #softeam sistemas
