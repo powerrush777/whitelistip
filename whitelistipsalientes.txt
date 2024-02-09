@@ -1,5 +1,9 @@
 #aca se ponen los que son encuarentenados pero NO son "ip peligrosos"
 #tambien se agregan los ip seguros que desarrollo nos informe
+
+#gostrategy
+45.169.100.91
+
 #ikeasistencia
 200.32.43.161
 #yacare
