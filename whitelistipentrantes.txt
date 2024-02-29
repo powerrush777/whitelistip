@@ -1,6 +1,10 @@
 #aca se ponen los que son encuarentenados pero NO son "ip peligrosos" que tienen que hacer conexiones entrantes al virtual ip
 #tambien se agregan los ip seguros que desarrollo nos informe
 
+#kimnconsulting?=?? Jeferson Valdivieso
+54.191.59.88
+52.89.216.134
+
 #gostrategy
 45.169.100.91
 
