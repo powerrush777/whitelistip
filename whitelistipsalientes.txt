@@ -1,6 +1,9 @@
 #aca se ponen los que son encuarentenados pero NO son "ip peligrosos"
 #tambien se agregan los ip seguros que desarrollo nos informe
 
+#tarjetadata
+200.70.56.203
+
 #ftpgalicia
 161.190.1.122
 
