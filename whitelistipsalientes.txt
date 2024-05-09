@@ -1,6 +1,10 @@
 #aca se ponen los que son encuarentenados pero NO son "ip peligrosos"
 #tambien se agregan los ip seguros que desarrollo nos informe
 
+#redlink
+45.233.68.48
+45.233.70.48
+
 #tarjetadata
 200.70.56.203
 
