@@ -1,6 +1,9 @@
 #aca se ponen los que son encuarentenados pero NO son "ip peligrosos"
 #tambien se agregan los ip seguros que desarrollo nos informe
-
+#huawei
+149.104.99.15
+149.104.99.14
+149.104.99.13
 
 
 #redlink
