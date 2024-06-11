@@ -1,5 +1,13 @@
 #aca se ponen los que son encuarentenados pero NO son "ip peligrosos"
 #tambien se agregan los ip seguros que desarrollo nos informe
+#root servers
+
+202.12.27.33
+170.247.170.2
+193.232.142.17
+194.85.252.62
+194.190.124.17
+
 #huawei
 149.104.99.15
 149.104.99.14
