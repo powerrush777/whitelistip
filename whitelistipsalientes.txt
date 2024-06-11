@@ -1,35 +1,10 @@
 #aca se ponen los que son encuarentenados pero NO son "ip peligrosos"
 #tambien se agregan los ip seguros que desarrollo nos informe
-#varios
-182.22.24.252
-35.219.111.231
-34.64.233.111
-52.78.179.2
-3.34.93.213
-183.79.248.124
-35.216.18.75
-
-#yahoo
-182.22.16.251
-
-#meta
-31.13.82.35
 
 #huawei
 149.104.99.15
 149.104.99.14
 149.104.99.13
-#dummy
-#amazon
-3.162.186.0/24
-3.162.185.0/24
-3.162.189.208
-34.118.72.152
-
-#google
-35.213.86.143
-#twitter
-209.237.193.128
 
 #redlink
 45.233.68.48
