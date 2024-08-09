@@ -1,7 +1,17 @@
 #aca se ponen los que son encuarentenados pero NO son "ip peligrosos" que tienen que hacer conexiones entrantes al virtual ip
 #tambien se agregan los ip seguros que desarrollo nos informe
 
+#whitelistbrasil
+54.232.45.250
+15.229.250.188
+18.229.136.100
+18.231.159.85
 
+#desarrollador qlik brasil temporal
+38.56.201.209
+
+#anguard
+15.229.77.130
 
 #ftpgalicia
 161.190.1.122
