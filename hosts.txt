@@ -1,1 +1,4 @@
 cc-api-data.adobe.io
+geo2.adobe.com
+acroipm2.adobe.com
+
